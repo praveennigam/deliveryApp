@@ -1,0 +1,363 @@
+[{
+  "_id": {
+    "$oid": "66587157a3c0bad1cbbe4259"
+  },
+  "name": "Salad Caprese",
+  "description": "Sliced mozzarella. Sliced tomatoes. Sweet basil. Olive oil. Salt. That’s it.\r\n\r\n",
+  "price": 199,
+  "image": "1717072215147.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665871ada3c0bad1cbbe425b"
+  },
+  "name": "Salad Niçoise",
+  "description": "Tomatoes, hard-boiled eggs, Niçoise olives, anchovies, cucumber and olive oil. Many people also choose to include tuna.",
+  "price": 299,
+  "image": "1717072301239.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6658723ea3c0bad1cbbe4260"
+  },
+  "name": "Caesar Salad ",
+  "description": "Romaine lettuce, croutons, lemon juice, olive oil. Egg. Worcestershire sauce,  lemon juice, olive oil. Egg. Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper.",
+  "price": 279,
+  "image": "1717072446183.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a4f755ff6289a219032ca"
+  },
+  "name": "Club Sandwich",
+  "description": "A hearty sandwich with layers of turkey, bacon, lettuce, tomato, and mayonnaise, typically served on toasted bread and cut into quarters, often with a side of pickles or chips.",
+  "price": 249,
+  "image": "1717194613357.png",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a4fa55ff6289a219032cc"
+  },
+  "name": "Grilled Cheese Sandwich",
+  "description": "A comfort food favorite made with slices of melty cheese sandwiched between buttered bread and grilled to golden perfection, often paired with a bowl of tomato soup.",
+  "price": 349,
+  "image": "1717194661472.png",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a4fd45ff6289a219032ce"
+  },
+  "name": "Reuben Sandwich",
+  "description": " A savory sandwich filled with corned beef, Swiss cheese, sauerkraut, and Russian dressing, grilled between slices of rye bread until warm and gooey.",
+  "price": 399,
+  "image": "1717194708984.png",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a500c5ff6289a219032d0"
+  },
+  "name": "Turkey and Avocado Sandwich",
+  "description": "A fresh and flavorful combination of sliced turkey, creamy avocado, lettuce, tomato, and a touch of mayonnaise or mustard, served on whole grain bread.",
+  "price": 449,
+  "image": "1717194764639.png",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a512a5ff6289a219032d5"
+  },
+  "name": "Vanilla Bean Ice Cream",
+  "description": "A classic and timeless flavor made with real vanilla beans, providing a rich and creamy texture with a smooth, aromatic vanilla taste.\r\n",
+  "price": 349,
+  "image": "1717195050832.png",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a51715ff6289a219032d7"
+  },
+  "name": "Chocolate Fudge Brownie Ice Cream",
+  "description": " Decadent chocolate ice cream swirled with gooey fudge and loaded with chunks of chewy brownie, perfect for chocolate lovers",
+  "price": 439,
+  "image": "1717195121305.png",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a519e5ff6289a219032d9"
+  },
+  "name": "Strawberry Cheesecake Ice Cream",
+  "description": "Creamy cheesecake-flavored ice cream blended with luscious strawberry swirls and chunks of real cheesecake, creating a delightful dessert experience.\r\n",
+  "price": 339,
+  "image": "1717195166285.png",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a52b45ff6289a219032dd"
+  },
+  "name": "Strawberry Cheesecake Ice Cream",
+  "description": "Creamy cheesecake-flavored ice cream blended with luscious strawberry swirls and chunks of real cheesecake, creating a delightful dessert experience.\r\n",
+  "price": 289,
+  "image": "1717195444384.png",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a533b5ff6289a219032df"
+  },
+  "name": "Shrimp and Garlic Egg Roll",
+  "description": "Succulent shrimp seasoned with garlic and mixed with cabbage and carrots, creating a flavorful and crispy egg roll",
+  "price": 279,
+  "image": "1717195579585.png",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a53695ff6289a219032e1"
+  },
+  "name": "Beef and Broccoli Egg Roll",
+  "description": "A hearty combination of tender beef strips and fresh broccoli florets, seasoned and wrapped in a crunchy egg roll wrapper.",
+  "price": 339,
+  "image": "1717195625270.png",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a53a05ff6289a219032e3"
+  },
+  "name": "BBQ Pulled Pork Egg Roll",
+  "description": "Smoky pulled pork mixed with tangy barbecue sauce and slaw, wrapped in a golden, crunchy shell for a Southern-inspired treat.\r\n",
+  "price": 429,
+  "image": "1717195680695.png",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a54205ff6289a219032e6"
+  },
+  "name": "Crab Rangoon Egg Roll",
+  "description": "Creamy and savory crab Rangoon filling made with crab meat, cream cheese, and green onions, all wrapped in a crunchy egg roll skin.\r\n\r\n\r\n\r\n\r\n\r\n",
+  "price": 439,
+  "image": "1717195808327.png",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a549b5ff6289a219032e9"
+  },
+  "name": "Carrot Cake",
+  "description": " A moist and spiced cake made with grated carrots, walnuts, and a hint of cinnamon. Typically layered and frosted with a rich cream cheese icing, adding a perfect balance of sweetness and tang.\r\n\r\n\r\n\r\n\r\n\r\n",
+  "price": 229,
+  "image": "1717195931924.png",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a54e25ff6289a219032ec"
+  },
+  "name": "Red Velvet Cake",
+  "description": "A visually stunning cake with a vibrant red color and a subtle cocoa flavor, complemented by layers of creamy and tangy cream cheese frosting. A classic favorite for celebrations.\r\n",
+  "price": 349,
+  "image": "1717196002134.png",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a553a5ff6289a219032ee"
+  },
+  "name": "Victoria Sponge Cake",
+  "description": " A classic British cake with two layers of light and airy sponge cake sandwiched together with a layer of strawberry or raspberry jam and a generous amount of whipped cream or buttercream.\r\n",
+  "price": 549,
+  "image": "1717196090357.png",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a55725ff6289a219032f0"
+  },
+  "name": "Opera Cake",
+  "description": "A French dessert made up of layers of almond sponge cake soaked in coffee syrup, layered with ganache and coffee buttercream, and topped with a chocolate glaze. It’s a sophisticated and richly flavored cake.\r\n",
+  "price": 459,
+  "image": "1717196146546.png",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a563d5ff6289a219032f3"
+  },
+  "name": "Mini Samosas",
+  "description": "Small triangular pastries filled with a spicy mixture of potatoes, peas, and aromatic spices, then deep-fried until crisp and golden. Served with mint and tamarind chutneys.\r\n",
+  "price": 229,
+  "image": "1717196349584.png",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a57265ff6289a219032f7"
+  },
+  "name": " Gourmet Stuffed Mushrooms",
+  "description": "Succulent button mushrooms generously filled with a rich blend of creamy cheese, herbs, and breadcrumbs, then baked to golden perfection. A sophisticated appetizer for any occasion.\r\n",
+  "price": 339,
+  "image": "1717196582670.png",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a57b65ff6289a219032fa"
+  },
+  "name": "Cheese and Corn Croquettes",
+  "description": " Delightfully crispy on the outside and creamy on the inside, these croquettes are made from a luscious mix of sweet corn, cheese, and herbs. Breaded and deep-fried to a golden hue.\r\n",
+  "price": 419,
+  "image": "1717196726593.png",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a58085ff6289a219032fc"
+  },
+  "name": "Penne Arrabbiata",
+  "description": "Penne pasta tossed in a spicy tomato sauce made with garlic, tomatoes, and red chili peppers, offering a bold and fiery flavor",
+  "price": 339,
+  "image": "1717196808828.png",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a583d5ff6289a219032fe"
+  },
+  "name": "Fettuccine Alfredo",
+  "description": "Rich and creamy, this dish features fettuccine pasta coated in a sauce made from butter, heavy cream, and Parmesan cheese, often garnished with parsley.\r\n",
+  "price": 469,
+  "image": "1717196861046.png",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a588a5ff6289a21903300"
+  },
+  "name": "Rigatoni alla Norma",
+  "description": "Rigatoni pasta mixed with a flavorful tomato sauce, fried eggplant, garlic, and basil, topped with a generous amount of ricotta salata cheese.",
+  "price": 339,
+  "image": "1717196938542.png",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a58e35ff6289a21903302"
+  },
+  "name": "Linguine",
+  "description": "Long, flat pasta noodles, narrower than fettuccine but wider than spaghetti, commonly served with seafood-based sauces or pesto.\r\n",
+  "price": 229,
+  "image": "1717197027907.png",
+  "category": "Noodle",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a59115ff6289a21903304"
+  },
+  "name": "Fettuccine",
+  "description": " Flat, wide noodles, similar to spaghetti but broader, often paired with creamy sauces or served in dishes like fettuccine Alfredo with Parmesan cheese and butter.",
+  "price": 319,
+  "image": "1717197073277.png",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a59425ff6289a21903306"
+  },
+  "name": "Udon",
+  "description": "Thick, chewy Japanese wheat noodles, typically served in a savory broth or stir-fried with vegetables and protein, offering a hearty and comforting meal.\r\n",
+  "price": 419,
+  "image": "1717197122094.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a59d95ff6289a21903309"
+  },
+  "name": "Vegetable Stir-Fry",
+  "description": " A colorful medley of vegetables like broccoli, bell peppers, carrots, and snap peas stir-fried in a savory sauce made with soy sauce, garlic, ginger, and sesame oil.\r\n",
+  "price": 439,
+  "image": "1717197273866.png",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665ad6ef5ff6289a2190330c"
+  },
+  "name": "Glass Noodles",
+  "description": "Glass noodles, also known as cellophane noodles, are made from mung bean starch and are translucent. ",
+  "price": 449,
+  "image": "1717229295580.png",
+  "category": "Noodle",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665ad71a5ff6289a2190330e"
+  },
+  "name": "Dan Dan Noodles",
+  "description": " Dan Dan noodles are a classic Sichuan dish featuring spicy minced pork served over wheat noodles. The dish is known for its distinctive flavor, combining numbing Sichuan peppercorns with spicy chili oil.",
+  "price": 559,
+  "image": "1717229338070.png",
+  "category": "Noodle",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675fdff2ad879f3e59c5267"
+  },
+  "name": "Salad Caprese",
+  "description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.\r\n\r\n",
+  "price": 199,
+  "image": "1719008767204.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667600fe2ad879f3e59c526c"
+  },
+  "name": "Greek Salad",
+  "description": "Fresh cucumbers, tomatoes, red onions, olives, and feta cheese with a tangy vinaigrette.",
+  "price": 249,
+  "image": "1719009534013.png",
+  "category": "Salad",
+  "__v": 0
+}]

@@ -4,6 +4,8 @@
     justify-content: space-between;
     gap: 50px;
     margin-top: 50px;
+    flex-wrap: wrap;
+    /* Added to ensure wrapping on smaller screens */
 }
 
 .place-order-left {
@@ -40,4 +42,49 @@
 
 .place-order-right .cart-total button {
     margin-top: 40px;
+}
+
+
+/* Responsive adjustments for smaller screens (iPhone 14) */
+
+@media (max-width: 1170px) {
+    .place-order {
+        gap: 30px;
+        /* Reduced gap for smaller screens */
+        flex-direction: column;
+        /* Stack elements vertically */
+        align-items: center;
+        /* Center align for better readability */
+    }
+    .place-order-left {
+        max-width: 90%;
+        /* Increase width to utilize more screen space */
+    }
+    .place-order-right {
+        margin-top: 40px;
+        max-width: 90%;
+        /* Increase width to utilize more screen space */
+    }
+    .place-order-right .cart-total button {
+        width: 100%;
+        /* Ensure button spans the full width of the container */
+    }
+}
+
+
+/* Further adjustments for very small screens (portrait mode) */
+
+@media (max-width: 390px) {
+    .place-order-left .title {
+        font-size: 24px;
+        /* Adjust font size for smaller screens */
+    }
+    .place-order-left input {
+        padding: 8px;
+        /* Reduce padding for smaller input fields */
+    }
+    .place-order-right .cart-total button {
+        margin-top: 20px;
+        /* Adjust margin for better spacing */
+    }
 }
