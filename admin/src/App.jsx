@@ -10,7 +10,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "./index.css";
 
 const App = () => {
-  const url = "http://localhost:4000";
+  const url = "https://deliveryapp-3u1t.onrender.com";
   return (
     <div className="bg-neutral-900 min-h-screen">
       <div className="bg-fuchsia-400 bg-[size:20px_20px] opacity-20 blur-[100px] min-h-screen">
